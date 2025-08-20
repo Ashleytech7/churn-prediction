@@ -6,6 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > Predicting customer churn using machine learning to help businesses reduce revenue loss.
+> This project is still ongoing.
 
 ---
 
